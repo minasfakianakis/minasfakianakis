@@ -1,5 +1,5 @@
 👋
-<strong>I like coding. Also, a big spaceflight fan.</strong>
+<strong align="center">I like coding. Fan of technology and spaceflight.</strong>
 
 <!--
 **minasfakianakis/minasfakianakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
